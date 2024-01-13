@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+	<!--Announcements-->
+	<announce delay="1000" type="Event" message="Plunder Patriarch esta prestes a surgir na selva de Gnomprona, corra para encontra-lo" />
+	<announce delay="20000" type="Event" message="Junte seu time para derrotar o Plunder Patriarch.
+		Caso consiga encontra-lo a tempo!" />
+	<announce delay="60000" type="Event" message="Plunder Patriarch chegou, voce pode acha-lo nas redondezas de Gnomprona" />
+	<!--Single Spawns-->
+	<singlespawn delay="60000" name="Plunder Patriarch" x="33650" y="32834" z="14" />
+</raid>

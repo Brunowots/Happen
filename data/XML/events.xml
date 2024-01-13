@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event name="Happen Evento 1" startdate="05/12/2023" enddate="06/12/2023" script="example.lua" >
+		<ingame exprate="100" lootrate="100" spawnrate="100" skillrate="100" />
+		<description description="Happen Evento 1 description double exp and a half, double loot !chance!, regular spawn and double skill" />
+		<colors colordark="#235c00" colorlight="#2d7400" />
+		<details displaypriority="6" isseasonal="0" specialevent="0" />
+	</event>
+	<event name="Happen Evento 2" startdate="07/12/2023" enddate="08/12/2023" script="" >
+		<ingame exprate="100" lootrate="100" spawnrate="100" skillrate="100" />
+		<description description="Happen Evento 2 description 50% less exp, triple loot !chance!, 50% faster spawn and regular skill" />
+		<colors colordark="#735D10" colorlight="#8B6D05" />
+		<details displaypriority="6" isseasonal="0" specialevent="0" />
+	</event>
+	
+	<event name="Opening Server" startdate="09/12/2023" enddate="10/12/2023" script="" >
+		<ingame exprate="100" lootrate="100" spawnrate="100" skillrate="100" />
+		<description description="Happen Evento 2 description 50% less exp, triple loot !chance!, 50% faster spawn and regular skill" />
+		<colors colordark="#735D10" colorlight="#8B6D05" />
+		<details displaypriority="6" isseasonal="0" specialevent="0" />
+	</event>
+	<event name="Evento Del Fuego" startdate="10/12/2023" enddate="11/12/2023" script="" >
+		<ingame exprate="100" lootrate="100" spawnrate="100" skillrate="100" />
+		<description description="Happen Evento 2 description 50% less exp, triple loot !chance!, 50% faster spawn and regular skill" />
+		<colors colordark="#735D10" colorlight="#8B6D05" />
+		<details displaypriority="6" isseasonal="0" specialevent="0" />
+	</event>
+</events>
